@@ -1,1 +1,11 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Web Service UX testing
+
+dev:
+```
+npm run dev
+```
+
+production:
+```
+npm run start
+```
